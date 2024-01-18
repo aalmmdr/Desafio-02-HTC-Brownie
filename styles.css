@@ -1,0 +1,183 @@
+/*Reset */
+h1,h2,h3,h4,ul,ol {
+    margin: 0;
+}
+/*Reset */
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: #f0f0f0; 
+    margin-top: 24px; 
+    margin-bottom: 63px;
+}
+h1 {
+    color: #FF6A28;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+h2 {
+    color: #61656D;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 14px;
+}
+.container {
+    background-color: #FFFFFF;
+    width: 798px;
+    height: fit-content;
+    border-radius: 5px;
+    padding: 20px 26px 12px 27px ;   
+    box-sizing: border-box;
+}
+.container-ingredients {
+    background-color: #FFFFFF;
+    width: 798px;
+    height: fit-content;
+    border-radius: 5px;
+    padding: 20px 26px 12px 27px ;   
+    box-sizing: border-box;
+    margin-top: 37px;
+}
+.container-preparation {
+    background-color: #FFFFFF;
+    width: 798px;
+    height: fit-content;
+    border-radius: 5px;
+    padding: 20px 26px 12px 27px ;   
+    box-sizing: border-box;
+    margin-top: 16px;
+}
+.container-add-info {
+    background-color: #FFFFFF;
+    width: 798px;
+    height: fit-content;
+    border-radius: 5px;
+    padding: 20px 26px 12px 27px ;   
+    box-sizing: border-box;
+    margin-top: 16px;
+}
+.card-box {
+    width: 118px;
+    height: 85px;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.card-box-big {
+    width: 238px;
+    height: 85px;
+    background-color: #f0f0f0;
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+ .card-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px
+}  
+.card-img {
+    margin-top: 14px;
+    width: 20px;
+    height: 20px;
+}
+.card-img-big {
+  
+    width: 60px;
+    height: 60px;
+}
+.card-title {
+    color: #61656D;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 5px;    
+}
+.card-info {
+    color: #FF6A28;
+    font-weight: 700;
+    Text-transform: uppercase;
+    font-size: 14px;
+    margin-bottom: 14px;    
+}
+.apron-icon {
+    margin-right: 10px;
+    width: 20px;
+    height: 23px;
+}
+.pan-icon {
+    margin-right: 10px;
+    width: 20px;
+    height: 23px;
+}
+.second-title {
+    color: #FF6A28;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 4px;
+}
+.third-title {
+    color: #FF6A28;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 4px;
+}
+.title-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.ingredients-list {
+    color: #61656D;
+    font-size: 14px;
+    margin-top: 12px;    
+}
+li {
+    margin-bottom: 10px;
+}
+.preparation-list {
+    color: #61656D;
+    font-size: 14px;
+    margin-bottom: 10px;   
+}
+ol {
+    margin-top: 12px;
+}
+.fourth-title {
+    background-color: #f0f0f0;
+    color: #61656D;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    width: 100%;    
+}
+.forth-title-text {
+    color: #61656D;
+    font-size: 14px;
+    font-weight: 400;
+}
+.card-big-text{
+    margin-left: 11px;    
+}
+.card-title-big {
+    color: #61656D;
+    font-weight: 400;
+    font-size: 14px;
+}
+.card-info-big {
+    color: #FF6A28;
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 14px;    
+}
